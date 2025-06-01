@@ -4,14 +4,14 @@
     "count": "8",
     "date": "2025-05-01",
     "label": "1",
-    "latitude": "3.49024683127168",
-    "longitude": "12.302697310602083",
+    "latitude": "3.4902",
+    "longitude": "12.3026",
     "month": "5",
     "year": "2025",
     "geo": {
       "geodesic": false,
       "type": "Point",
-      "coordinates": [12.302697310602083, 3.49024683127168]
+      "coordinates": [12.3026, 3.4902]
     }
   }
 ]

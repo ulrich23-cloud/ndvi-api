@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: ndvi-api
-    env: php
-    buildCommand: ""
-    startCommand: ""
-    plan: free
-    rootDir: public

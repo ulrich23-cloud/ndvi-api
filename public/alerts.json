@@ -1,17 +1,17 @@
 [
   {
-    "NDVI": "0.12539604",
+    "NDVI": "0.125",
     "count": "8",
     "date": "2025-05-01",
     "label": "1",
-    "latitude": "3.4902",
-    "longitude": "12.3026",
+    "latitude": "3.49",
+    "longitude": "12.30",
     "month": "5",
     "year": "2025",
     "geo": {
       "geodesic": false,
       "type": "Point",
-      "coordinates": [12.3026, 3.4902]
+      "coordinates": [12.30, 3.49]
     }
   }
 ]
